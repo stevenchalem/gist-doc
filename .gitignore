@@ -1,4 +1,5 @@
 *-Schema.ttl
 *.ppt*
-tools/*.jar
+tools/widoco/*.jar
 .claude/settings.local.json
+_gist-deref-repo/
